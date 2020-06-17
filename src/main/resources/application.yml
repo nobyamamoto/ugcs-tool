@@ -1,0 +1,5 @@
+ugcs:
+  server-host: localhost
+  server-port: 3334
+  login: "<user>"
+  password: "<password>"
